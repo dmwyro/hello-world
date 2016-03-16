@@ -1,2 +1,6 @@
 # hello-world
-GDM 
+GDM hub 
+I am enjoying this brief beginner's guide to GitHub.
+
+
+
